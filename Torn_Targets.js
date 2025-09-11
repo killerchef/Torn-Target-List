@@ -6,6 +6,8 @@
 // @author       UnAmigo [3749876]
 // @match        https://www.torn.com/*
 // @grant        none
+// @updateURL    https://raw.githubusercontent.com/killerchef/Torn-Target-List/main/Torn_Targets.js
+// @downloadURL  https://raw.githubusercontent.com/killerchef/Torn-Target-List/main/Torn_Targets.js
 // ==/UserScript==
 
 (function() {
